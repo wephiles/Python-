@@ -1,2 +1,2 @@
 # Python-
-Python 算法
+Python 简单算法实现
